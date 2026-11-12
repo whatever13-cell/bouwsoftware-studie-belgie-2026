@@ -67,3 +67,27 @@ Belgische loodgieters, elektriciens, HVAC-installateurs en renovatiebedrijven zo
 - 🔧 **[werkbonappvergelijken.be · Beste App Zzp Bouw Installatie 1 Persoon 2026](https://werkbonappvergelijken.be/beste-app-zzp-bouw-installatie-1-persoon-2026/)**
 - 🔧 **[werkbonappvergelijken.be · Beste App Renovatie Schilders Timmerlieden Klusbedrijf 2026](https://werkbonappvergelijken.be/beste-app-renovatie-schilders-timmerlieden-klusbedrijf-2026/)**
 <!-- WAVE2-OFICIOS-2026-END -->
+
+<!-- WAVE3-FUNCIONES-2026-START -->
+---
+## 🚀 Golf 3 België / Belgique (2026): Verplichte Peppol 2026, Spraakofferte, Offline Bon, Q&A & Write.as (Avantium 1p: 49 €/maand)
+- ✍️ **[Ensayo Editorial en Write.as DR 85 (BE)](https://write.as/lp3771zhwxr4e)**
+- ⚡ **[Guía Factura Electrónica y Voz en Telegraph DR 92 (BE)](https://telegra.ph/Gids-België-2026-Verplichte-Peppol-E-Facturatie-Spraakoffertes--Offline-Werkbonnen-49--voor-1-Persoon-11-12)**
+- 🧩 **[Esquema JSON + Markdown Abierto en GitHub Gist DR 96 (BE)](https://gist.github.com/whatever13-cell/3109309d624513be3627a8dd8deb2494)**
+- ✅ **[Foro Q&A con Respuestas Aceptadas en GitHub Discussions DR 96 (BE): Q&A #1](https://github.com/whatever13-cell/bouwsoftware-studie-belgie-2026/discussions/5) · [Q&A #2](https://github.com/whatever13-cell/bouwsoftware-studie-belgie-2026/discussions/6) · [Q&A #3](https://github.com/whatever13-cell/bouwsoftware-studie-belgie-2026/discussions/7) · [Q&A #4](https://github.com/whatever13-cell/bouwsoftware-studie-belgie-2026/discussions/8)
+- 📌 **[bouwsoftwarevergelijken.be · Offerte Inspreken App Bouw Installatie 2026](https://bouwsoftwarevergelijken.be/offerte-inspreken-app-bouw-installatie-2026/)**
+- 📌 **[bouwsoftwarevergelijken.be · Digitale Werkbon App Offline Handtekening 2026](https://bouwsoftwarevergelijken.be/digitale-werkbon-app-offline-handtekening-2026/)**
+- 📌 **[bouwsoftwarevergelijken.be · Peppol E Facturatie Bouw Installateurs 2026](https://bouwsoftwarevergelijken.be/peppol-e-facturatie-bouw-installateurs-2026/)**
+- 📌 **[bouwsoftwarevergelijken.be · Urenregistratie Gps Termijnfacturen Nacalculatie 2026](https://bouwsoftwarevergelijken.be/urenregistratie-gps-termijnfacturen-nacalculatie-2026/)**
+- 📌 **[bouwsoftwarevergelijken.be · Offertes Afspraken Bonnen Whatsapp Ai 2026](https://bouwsoftwarevergelijken.be/offertes-afspraken-bonnen-whatsapp-ai-2026/)**
+- 📌 **[logicielsuivichantier.be · Devis Vocal Mobile Artisan Btp 2026](https://logicielsuivichantier.be/devis-vocal-mobile-artisan-btp-2026/)**
+- 📌 **[logicielsuivichantier.be · Bon Intervention Numerique Hors Ligne Signature 2026](https://logicielsuivichantier.be/bon-intervention-numerique-hors-ligne-signature-2026/)**
+- 📌 **[logicielsuivichantier.be · Facturation Electronique Peppol Artisan Belgique 2026](https://logicielsuivichantier.be/facturation-electronique-peppol-artisan-belgique-2026/)**
+- 📌 **[logicielsuivichantier.be · Pointage Gps Chantier Situations Travaux Rentabilite 2026](https://logicielsuivichantier.be/pointage-gps-chantier-situations-travaux-rentabilite-2026/)**
+- 📌 **[logicielsuivichantier.be · Devis Depenses Rendez Vous Whatsapp Ia Btp 2026](https://logicielsuivichantier.be/devis-depenses-rendez-vous-whatsapp-ia-btp-2026/)**
+- 📌 **[werkbonappvergelijken.be · Offerte Inspreken App Bouw Installatie 2026](https://werkbonappvergelijken.be/offerte-inspreken-app-bouw-installatie-2026/)**
+- 📌 **[werkbonappvergelijken.be · Digitale Werkbon App Offline Handtekening 2026](https://werkbonappvergelijken.be/digitale-werkbon-app-offline-handtekening-2026/)**
+- 📌 **[werkbonappvergelijken.be · Peppol E Facturatie Bouw Installateurs 2026](https://werkbonappvergelijken.be/peppol-e-facturatie-bouw-installateurs-2026/)**
+- 📌 **[werkbonappvergelijken.be · Urenregistratie Gps Termijnfacturen Nacalculatie 2026](https://werkbonappvergelijken.be/urenregistratie-gps-termijnfacturen-nacalculatie-2026/)**
+- 📌 **[werkbonappvergelijken.be · Offertes Afspraken Bonnen Whatsapp Ai 2026](https://werkbonappvergelijken.be/offertes-afspraken-bonnen-whatsapp-ai-2026/)**
+<!-- WAVE3-FUNCIONES-2026-END -->
