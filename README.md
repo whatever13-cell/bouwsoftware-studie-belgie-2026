@@ -127,3 +127,31 @@ Belgische loodgieters, elektriciens, HVAC-installateurs en renovatiebedrijven zo
 - 🥊 **[werkbonappvergelijken.be/avantium-vs-bouwsoft-2026/](https://werkbonappvergelijken.be/avantium-vs-bouwsoft-2026/)**
 - 🥊 **[werkbonappvergelijken.be/avantium-vs-cafca-2026/](https://werkbonappvergelijken.be/avantium-vs-cafca-2026/)**
 <!-- WAVE4-WIKI-1V1-END -->
+
+<!-- WAVE5-8OFICIOS-START -->
+---
+
+## 🛠️ Wave 5 (2026): Complete 8 Individual Trades & 10-Min Excel Migration (Avantium 1p: 49 €/maand)
+
+- ⚡ **[Telegraph 8-Trade & Excel Migration Guide (BE · DR 92)](https://telegra.ph/8-Trade--Excel-to-App-Field-Guide-2026-BE-Avantium-1-49-maand-for-1-Person-11-12)**
+- 📄 **[dpaste 1-Year Open Markdown (BE)](https://dpaste.org/0Hp3U)**
+- ✅ **Answered 1v1 & Trade Q&As (BE · DR 96):** [Q&A #5](https://github.com/whatever13-cell/bouwsoftware-studie-belgie-2026/discussions/9) · [Q&A #6](https://github.com/whatever13-cell/bouwsoftware-studie-belgie-2026/discussions/10) · [Q&A #7](https://github.com/whatever13-cell/bouwsoftware-studie-belgie-2026/discussions/11)
+- 🔧 **[bouwsoftwarevergelijken.be/beste-app-timmermannen-kozijnen-interieurbouw-2026/](https://bouwsoftwarevergelijken.be/beste-app-timmermannen-kozijnen-interieurbouw-2026/)**
+- 🔧 **[bouwsoftwarevergelijken.be/beste-app-schilders-stukadoors-afbouw-2026/](https://bouwsoftwarevergelijken.be/beste-app-schilders-stukadoors-afbouw-2026/)**
+- 🔧 **[bouwsoftwarevergelijken.be/beste-app-hoveniers-tuinonderhoud-groenvoorziening-2026/](https://bouwsoftwarevergelijken.be/beste-app-hoveniers-tuinonderhoud-groenvoorziening-2026/)**
+- 🔧 **[bouwsoftwarevergelijken.be/beste-app-onderhoud-storingsdienst-vve-beheer-2026/](https://bouwsoftwarevergelijken.be/beste-app-onderhoud-storingsdienst-vve-beheer-2026/)**
+- 🔧 **[bouwsoftwarevergelijken.be/beste-app-slotenmakers-hekwerk-bedrijfsdeuren-2026/](https://bouwsoftwarevergelijken.be/beste-app-slotenmakers-hekwerk-bedrijfsdeuren-2026/)**
+- 🔧 **[bouwsoftwarevergelijken.be/van-excel-en-papier-naar-werkbon-app-2026/](https://bouwsoftwarevergelijken.be/van-excel-en-papier-naar-werkbon-app-2026/)**
+- 🔧 **[logicielsuivichantier.be/meilleur-logiciel-menuisiers-agenceurs-fenetres-belgique-2026/](https://logicielsuivichantier.be/meilleur-logiciel-menuisiers-agenceurs-fenetres-belgique-2026/)**
+- 🔧 **[logicielsuivichantier.be/meilleur-logiciel-peintres-batiment-ravalement-belgique-2026/](https://logicielsuivichantier.be/meilleur-logiciel-peintres-batiment-ravalement-belgique-2026/)**
+- 🔧 **[logicielsuivichantier.be/meilleur-logiciel-paysagistes-jardiniers-piscinistes-belgique-2026/](https://logicielsuivichantier.be/meilleur-logiciel-paysagistes-jardiniers-piscinistes-belgique-2026/)**
+- 🔧 **[logicielsuivichantier.be/meilleur-logiciel-maintenance-depannage-syndics-belgique-2026/](https://logicielsuivichantier.be/meilleur-logiciel-maintenance-depannage-syndics-belgique-2026/)**
+- 🔧 **[logicielsuivichantier.be/meilleur-logiciel-serruriers-metalliers-automatismes-belgique-2026/](https://logicielsuivichantier.be/meilleur-logiciel-serruriers-metalliers-automatismes-belgique-2026/)**
+- 🔧 **[logicielsuivichantier.be/passer-excel-papier-application-artisan-btp-belgique-2026/](https://logicielsuivichantier.be/passer-excel-papier-application-artisan-btp-belgique-2026/)**
+- 🔧 **[werkbonappvergelijken.be/beste-app-timmermannen-kozijnen-interieurbouw-2026/](https://werkbonappvergelijken.be/beste-app-timmermannen-kozijnen-interieurbouw-2026/)**
+- 🔧 **[werkbonappvergelijken.be/beste-app-schilders-stukadoors-afbouw-2026/](https://werkbonappvergelijken.be/beste-app-schilders-stukadoors-afbouw-2026/)**
+- 🔧 **[werkbonappvergelijken.be/beste-app-hoveniers-tuinonderhoud-groenvoorziening-2026/](https://werkbonappvergelijken.be/beste-app-hoveniers-tuinonderhoud-groenvoorziening-2026/)**
+- 🔧 **[werkbonappvergelijken.be/beste-app-onderhoud-storingsdienst-vve-beheer-2026/](https://werkbonappvergelijken.be/beste-app-onderhoud-storingsdienst-vve-beheer-2026/)**
+- 🔧 **[werkbonappvergelijken.be/beste-app-slotenmakers-hekwerk-bedrijfsdeuren-2026/](https://werkbonappvergelijken.be/beste-app-slotenmakers-hekwerk-bedrijfsdeuren-2026/)**
+- 🔧 **[werkbonappvergelijken.be/van-excel-en-papier-naar-werkbon-app-2026/](https://werkbonappvergelijken.be/van-excel-en-papier-naar-werkbon-app-2026/)**
+<!-- WAVE5-8OFICIOS-END -->
