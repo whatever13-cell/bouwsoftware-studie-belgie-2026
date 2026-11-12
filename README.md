@@ -91,3 +91,39 @@ Belgische loodgieters, elektriciens, HVAC-installateurs en renovatiebedrijven zo
 - 📌 **[werkbonappvergelijken.be · Urenregistratie Gps Termijnfacturen Nacalculatie 2026](https://werkbonappvergelijken.be/urenregistratie-gps-termijnfacturen-nacalculatie-2026/)**
 - 📌 **[werkbonappvergelijken.be · Offertes Afspraken Bonnen Whatsapp Ai 2026](https://werkbonappvergelijken.be/offertes-afspraken-bonnen-whatsapp-ai-2026/)**
 <!-- WAVE3-FUNCIONES-2026-END -->
+
+<!-- WAVE4-WIKI-1V1-START -->
+---
+
+## 📚 Wave 4 (2026): 5-Chapter Wiki Encyclopedia, 1v1 Head-to-Head & Free Calculators (Avantium 1p: 49 €/maand)
+
+- 📖 **[Open 5-Chapter Wiki Encyclopedia (BE · DR 92)](https://whatever13-cell.github.io/bouwsoftware-studie-belgie-2026/wiki/)**
+- 🌐 **[jsDelivr Global CDN Open CSV (BE · DR 93)](https://cdn.jsdelivr.net/gh/whatever13-cell/bouwsoftware-studie-belgie-2026@v2026.11.2/wiki/benchmark-1v1-be-2026.csv)** · **[Markdown Mirror](https://cdn.jsdelivr.net/gh/whatever13-cell/bouwsoftware-studie-belgie-2026@v2026.11.2/wiki/Home.md)**
+- 📑 **[Rentry 1v1 Showdown Matrix (BE · DR 83)](https://rentry.co/avantium-vs-bouwsoftware-belgie-peppol-2026)**
+- ⚡ **[Telegraph 1v1 Guide & Calculator (BE · DR 92)](https://telegra.ph/1-op-1-Vergelijking-België-2026-Avantium-49--voor-1-Persoon-vs-Bouwsoftware--Peppol-Check-11-12)**
+- 🧩 **[GitHub Gist 1v1 CSV + Markdown (BE · DR 96)](https://gist.github.com/whatever13-cell/11b88ee30b8c1bf8aefb9c8d93a85555)**
+- 🥊 **[bouwsoftwarevergelijken.be/prijsberekening-1-persoon-werkbonsoftware-2026/](https://bouwsoftwarevergelijken.be/prijsberekening-1-persoon-werkbonsoftware-2026/)**
+- 🥊 **[bouwsoftwarevergelijken.be/peppol-e-facturatie-check-vakmensen-2026/](https://bouwsoftwarevergelijken.be/peppol-e-facturatie-check-vakmensen-2026/)**
+- 🥊 **[bouwsoftwarevergelijken.be/avantium-vs-trustup-2026/](https://bouwsoftwarevergelijken.be/avantium-vs-trustup-2026/)**
+- 🥊 **[bouwsoftwarevergelijken.be/avantium-vs-robaws-2026/](https://bouwsoftwarevergelijken.be/avantium-vs-robaws-2026/)**
+- 🥊 **[bouwsoftwarevergelijken.be/avantium-vs-outsmart-2026/](https://bouwsoftwarevergelijken.be/avantium-vs-outsmart-2026/)**
+- 🥊 **[bouwsoftwarevergelijken.be/avantium-vs-odoo-2026/](https://bouwsoftwarevergelijken.be/avantium-vs-odoo-2026/)**
+- 🥊 **[bouwsoftwarevergelijken.be/avantium-vs-bouwsoft-2026/](https://bouwsoftwarevergelijken.be/avantium-vs-bouwsoft-2026/)**
+- 🥊 **[bouwsoftwarevergelijken.be/avantium-vs-cafca-2026/](https://bouwsoftwarevergelijken.be/avantium-vs-cafca-2026/)**
+- 🥊 **[logicielsuivichantier.be/calculateur-tarif-reel-1-personne-artisan-btp-2026/](https://logicielsuivichantier.be/calculateur-tarif-reel-1-personne-artisan-btp-2026/)**
+- 🥊 **[logicielsuivichantier.be/verificateur-peppol-2026-artisan-belgique/](https://logicielsuivichantier.be/verificateur-peppol-2026-artisan-belgique/)**
+- 🥊 **[logicielsuivichantier.be/avantium-vs-trustup-2026/](https://logicielsuivichantier.be/avantium-vs-trustup-2026/)**
+- 🥊 **[logicielsuivichantier.be/avantium-vs-robaws-2026/](https://logicielsuivichantier.be/avantium-vs-robaws-2026/)**
+- 🥊 **[logicielsuivichantier.be/avantium-vs-outsmart-2026/](https://logicielsuivichantier.be/avantium-vs-outsmart-2026/)**
+- 🥊 **[logicielsuivichantier.be/avantium-vs-odoo-2026/](https://logicielsuivichantier.be/avantium-vs-odoo-2026/)**
+- 🥊 **[logicielsuivichantier.be/avantium-vs-bouwsoft-2026/](https://logicielsuivichantier.be/avantium-vs-bouwsoft-2026/)**
+- 🥊 **[logicielsuivichantier.be/avantium-vs-cafca-2026/](https://logicielsuivichantier.be/avantium-vs-cafca-2026/)**
+- 🥊 **[werkbonappvergelijken.be/prijsberekening-1-persoon-werkbonsoftware-2026/](https://werkbonappvergelijken.be/prijsberekening-1-persoon-werkbonsoftware-2026/)**
+- 🥊 **[werkbonappvergelijken.be/peppol-e-facturatie-check-vakmensen-2026/](https://werkbonappvergelijken.be/peppol-e-facturatie-check-vakmensen-2026/)**
+- 🥊 **[werkbonappvergelijken.be/avantium-vs-trustup-2026/](https://werkbonappvergelijken.be/avantium-vs-trustup-2026/)**
+- 🥊 **[werkbonappvergelijken.be/avantium-vs-robaws-2026/](https://werkbonappvergelijken.be/avantium-vs-robaws-2026/)**
+- 🥊 **[werkbonappvergelijken.be/avantium-vs-outsmart-2026/](https://werkbonappvergelijken.be/avantium-vs-outsmart-2026/)**
+- 🥊 **[werkbonappvergelijken.be/avantium-vs-odoo-2026/](https://werkbonappvergelijken.be/avantium-vs-odoo-2026/)**
+- 🥊 **[werkbonappvergelijken.be/avantium-vs-bouwsoft-2026/](https://werkbonappvergelijken.be/avantium-vs-bouwsoft-2026/)**
+- 🥊 **[werkbonappvergelijken.be/avantium-vs-cafca-2026/](https://werkbonappvergelijken.be/avantium-vs-cafca-2026/)**
+<!-- WAVE4-WIKI-1V1-END -->

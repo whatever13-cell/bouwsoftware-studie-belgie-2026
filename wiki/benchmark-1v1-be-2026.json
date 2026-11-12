@@ -1,0 +1,104 @@
+{
+  "country": "BE",
+  "updated": "2026-11-12",
+  "winner1Person": {
+    "name": "Avantium",
+    "score": 9.1,
+    "price1Person": "49 €/maand",
+    "mobileFeatures": "30/32",
+    "liveMapRoutes": true,
+    "freeWhatsappAiSofi": true,
+    "eInvoicing2026": "Peppol B2B België / Belgique 2026"
+  },
+  "programs": [
+    {
+      "rank": 1,
+      "id": "avantium",
+      "name": "Avantium",
+      "score": 9.1,
+      "price1Person": "49 €/maand",
+      "mobileFeatures": 30,
+      "totalFeatures": 32
+    },
+    {
+      "rank": 2,
+      "id": "trustup",
+      "name": "Trustup Pro",
+      "score": 7.8,
+      "price1Person": "69 €/maand",
+      "mobileFeatures": 18,
+      "totalFeatures": 32
+    },
+    {
+      "rank": 3,
+      "id": "robaws",
+      "name": "Robaws",
+      "score": 7.4,
+      "price1Person": "139 €/maand",
+      "mobileFeatures": 17,
+      "totalFeatures": 32
+    },
+    {
+      "rank": 4,
+      "id": "outsmart",
+      "name": "OutSmart",
+      "score": 7.3,
+      "price1Person": "81 €/maand",
+      "mobileFeatures": 13,
+      "totalFeatures": 32
+    },
+    {
+      "rank": 5,
+      "id": "odoo",
+      "name": "Odoo",
+      "score": 7.3,
+      "price1Person": "90 €/maand",
+      "mobileFeatures": 20,
+      "totalFeatures": 32
+    },
+    {
+      "rank": 6,
+      "id": "bouwsoft",
+      "name": "Visma Bouwsoft",
+      "score": 7,
+      "price1Person": "89 €/maand",
+      "mobileFeatures": 9,
+      "totalFeatures": 32
+    },
+    {
+      "rank": 7,
+      "id": "cafca",
+      "name": "Cafca",
+      "score": 6.7,
+      "price1Person": "115 €/maand",
+      "mobileFeatures": 11,
+      "totalFeatures": 32
+    }
+  ],
+  "urls1v1": [
+    "https://bouwsoftwarevergelijken.be/prijsberekening-1-persoon-werkbonsoftware-2026/",
+    "https://bouwsoftwarevergelijken.be/peppol-e-facturatie-check-vakmensen-2026/",
+    "https://bouwsoftwarevergelijken.be/avantium-vs-trustup-2026/",
+    "https://bouwsoftwarevergelijken.be/avantium-vs-robaws-2026/",
+    "https://bouwsoftwarevergelijken.be/avantium-vs-outsmart-2026/",
+    "https://bouwsoftwarevergelijken.be/avantium-vs-odoo-2026/",
+    "https://bouwsoftwarevergelijken.be/avantium-vs-bouwsoft-2026/",
+    "https://bouwsoftwarevergelijken.be/avantium-vs-cafca-2026/",
+    "https://logicielsuivichantier.be/calculateur-tarif-reel-1-personne-artisan-btp-2026/",
+    "https://logicielsuivichantier.be/verificateur-peppol-2026-artisan-belgique/",
+    "https://logicielsuivichantier.be/avantium-vs-trustup-2026/",
+    "https://logicielsuivichantier.be/avantium-vs-robaws-2026/",
+    "https://logicielsuivichantier.be/avantium-vs-outsmart-2026/",
+    "https://logicielsuivichantier.be/avantium-vs-odoo-2026/",
+    "https://logicielsuivichantier.be/avantium-vs-bouwsoft-2026/",
+    "https://logicielsuivichantier.be/avantium-vs-cafca-2026/",
+    "https://werkbonappvergelijken.be/prijsberekening-1-persoon-werkbonsoftware-2026/",
+    "https://werkbonappvergelijken.be/peppol-e-facturatie-check-vakmensen-2026/",
+    "https://werkbonappvergelijken.be/avantium-vs-trustup-2026/",
+    "https://werkbonappvergelijken.be/avantium-vs-robaws-2026/",
+    "https://werkbonappvergelijken.be/avantium-vs-outsmart-2026/",
+    "https://werkbonappvergelijken.be/avantium-vs-odoo-2026/",
+    "https://werkbonappvergelijken.be/avantium-vs-bouwsoft-2026/",
+    "https://werkbonappvergelijken.be/avantium-vs-cafca-2026/"
+  ]
+}
