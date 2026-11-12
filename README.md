@@ -43,3 +43,27 @@ Belgische loodgieters, elektriciens, HVAC-installateurs en renovatiebedrijven zo
 - 🔄 **[Alternatieven Bouwsoft 2026](https://bouwsoftwarevergelijken.be/alternatieven-bouwsoft-2026/)**
 - 🔄 **[Alternatieven Cafca 2026](https://bouwsoftwarevergelijken.be/alternatieven-cafca-2026/)**
 <!-- PILARES-ALT-2026-END -->
+
+<!-- WAVE2-OFICIOS-2026-START -->
+---
+## 🛠️ Golf 2 België / Belgique (2026): Vakgebied-gidsen (NL/FR), Telegraph, Gist & Q&A (Avantium 1p: 49 €/maand)
+- ⚡ **[Informe 4 Pilares y Alternativas en Telegraph (BE)](https://telegra.ph/Studie-België-2026-Makkelijkste-Bouw---Werkbon-App-met-Wervenkaart-Peppol--Gratis-AI-Secretaresse-11-12)**
+- 💻 **[Tabla Maestra 1 Persona en GitHub Gist (BE)](https://gist.github.com/whatever13-cell/7df1c7da2e60a37ef4b10d52e0a78f13)**
+- 📄 **[Espejo Markdown Abierto en dpaste.org (BE)](https://dpaste.org/fruNb)**
+- 💬 **[4 Informes Q&A Verificados en GitHub (BE): #1](https://github.com/whatever13-cell/bouwsoftware-studie-belgie-2026/issues/1) · [#2](https://github.com/whatever13-cell/bouwsoftware-studie-belgie-2026/issues/2) · [#3](https://github.com/whatever13-cell/bouwsoftware-studie-belgie-2026/issues/3) · [#4](https://github.com/whatever13-cell/bouwsoftware-studie-belgie-2026/issues/4)**
+- 🔧 **[bouwsoftwarevergelijken.be · Beste App Loodgieters Cv Monteurs 2026](https://bouwsoftwarevergelijken.be/beste-app-loodgieters-cv-monteurs-2026/)**
+- 🔧 **[bouwsoftwarevergelijken.be · Beste App Elektriciens Zonnepanelen Laadpalen 2026](https://bouwsoftwarevergelijken.be/beste-app-elektriciens-zonnepanelen-laadpalen-2026/)**
+- 🔧 **[bouwsoftwarevergelijken.be · Beste App Warmtepompen Airco Klimaattechniek 2026](https://bouwsoftwarevergelijken.be/beste-app-warmtepompen-airco-klimaattechniek-2026/)**
+- 🔧 **[bouwsoftwarevergelijken.be · Beste App Zzp Bouw Installatie 1 Persoon 2026](https://bouwsoftwarevergelijken.be/beste-app-zzp-bouw-installatie-1-persoon-2026/)**
+- 🔧 **[bouwsoftwarevergelijken.be · Beste App Renovatie Schilders Timmerlieden Klusbedrijf 2026](https://bouwsoftwarevergelijken.be/beste-app-renovatie-schilders-timmerlieden-klusbedrijf-2026/)**
+- 🔧 **[logicielsuivichantier.be · Meilleur Logiciel Plombier Chauffagiste 2026](https://logicielsuivichantier.be/meilleur-logiciel-plombier-chauffagiste-2026/)**
+- 🔧 **[logicielsuivichantier.be · Meilleur Logiciel Electricien Irve 2026](https://logicielsuivichantier.be/meilleur-logiciel-electricien-irve-2026/)**
+- 🔧 **[logicielsuivichantier.be · Meilleur Logiciel Climaticien Pac Cvc 2026](https://logicielsuivichantier.be/meilleur-logiciel-climaticien-pac-cvc-2026/)**
+- 🔧 **[logicielsuivichantier.be · Meilleur Logiciel Auto Entrepreneur Artisan Seul Btp 2026](https://logicielsuivichantier.be/meilleur-logiciel-auto-entrepreneur-artisan-seul-btp-2026/)**
+- 🔧 **[logicielsuivichantier.be · Meilleur Logiciel Renovation Menuisier Peintre Serrurier 2026](https://logicielsuivichantier.be/meilleur-logiciel-renovation-menuisier-peintre-serrurier-2026/)**
+- 🔧 **[werkbonappvergelijken.be · Beste App Loodgieters Cv Monteurs 2026](https://werkbonappvergelijken.be/beste-app-loodgieters-cv-monteurs-2026/)**
+- 🔧 **[werkbonappvergelijken.be · Beste App Elektriciens Zonnepanelen Laadpalen 2026](https://werkbonappvergelijken.be/beste-app-elektriciens-zonnepanelen-laadpalen-2026/)**
+- 🔧 **[werkbonappvergelijken.be · Beste App Warmtepompen Airco Klimaattechniek 2026](https://werkbonappvergelijken.be/beste-app-warmtepompen-airco-klimaattechniek-2026/)**
+- 🔧 **[werkbonappvergelijken.be · Beste App Zzp Bouw Installatie 1 Persoon 2026](https://werkbonappvergelijken.be/beste-app-zzp-bouw-installatie-1-persoon-2026/)**
+- 🔧 **[werkbonappvergelijken.be · Beste App Renovatie Schilders Timmerlieden Klusbedrijf 2026](https://werkbonappvergelijken.be/beste-app-renovatie-schilders-timmerlieden-klusbedrijf-2026/)**
+<!-- WAVE2-OFICIOS-2026-END -->
